@@ -1,0 +1,74 @@
+{
+    "asset": {
+        "allow_student_access": true,
+        "author_id": null,
+        "category_id": null,
+        "cep_partner_id": null,
+        "concepts": null,
+        "copyright": null,
+        "copyright_holder_id": null,
+        "corporate_partner_id": null,
+        "country_code": null,
+        "create_date": "2022-11-08T10:29:34.157000",
+        "created_by": "e64ba32b-cf2f-47cd-8e06-b508bc7d8519",
+        "created_by_user": {
+            "full_name": "Robert Cotey",
+            "username": "rcotey@discoveryed.com"
+        },
+        "description": "United States 2nd Grade",
+        "description_child": null,
+        "exclude_from_search": false,
+        "grade_ids": [
+            "342bdef5-1004-4bd3-88a4-d1c81f020842"
+        ],
+        "highlight": {
+            "end": null,
+            "start": null
+        },
+        "id": "10e2626e-40a6-42db-94ca-e31b9615d9e8",
+        "is_editable": false,
+        "is_map": false,
+        "is_primary_source": false,
+        "is_searchable": false,
+        "is_user_created": false,
+        "keywords": [],
+        "language_code": "En-US",
+        "location": null,
+        "original_partner_id": null,
+        "producer_id": null,
+        "publisher_id": null,
+        "region_code": null,
+        "series_id": null,
+        "status_id": 2,
+        "sub_type_id": null,
+        "subtype": null,
+        "third_party_ids": [],
+        "title": "United States 2nd Grade",
+        "type": {
+            "friendly_name": "Techbook Course",
+            "group": {
+                "grouping": {
+                    "id": null,
+                    "name": null
+                },
+                "id": null
+            },
+            "id": "9db7524b-04e6-4459-8da5-4b743e483656",
+            "name": "Techbook Course"
+        },
+        "type_guid": "9db7524b-04e6-4459-8da5-4b743e483656",
+        "update_date": "2022-11-08T09:37:39.727000",
+        "updated_by": "e64ba32b-cf2f-47cd-8e06-b508bc7d8519",
+        "updated_by_user": {
+            "full_name": "Robert Cotey",
+            "username": "rcotey@discoveryed.com"
+        },
+        "url": null,
+        "vocabulary": null
+    },
+    "meta": {
+        "elapsed_ms": 3904,
+        "status_code": 200,
+        "valid": true
+    }
+}
